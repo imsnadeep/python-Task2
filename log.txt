@@ -1,0 +1,19 @@
+start time for sequenceTraverse 2022-02-02 17:49:20.535373
+dut1
+dut2
+dut3
+dut4
+End time for sequenceTraverse 2022-02-02 17:49:20.535448
+PID for process 1: 9179
+start time in listTraverse: 1643824160.5423925
+PID for process 2: 9180
+T1: dut1
+T2: dut4
+T2: dut3
+T1: dut2
+T1: dut3
+T2: dut2
+T2: dut1
+T1: dut4
+total time: 8.007845163345337
+done 
